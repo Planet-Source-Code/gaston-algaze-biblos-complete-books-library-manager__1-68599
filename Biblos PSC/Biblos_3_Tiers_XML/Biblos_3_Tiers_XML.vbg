@@ -1,0 +1,4 @@
+VBGROUP 5.0
+Project=..\..\..\Proyecto Biblos\Biblos Three Tiers\stable\Biblos_BR\prjBiblos_BR.vbp
+Project=..\..\..\Proyecto Biblos\Biblos Three Tiers\stable\Biblos_DA\prjBiblos_DA.vbp
+StartupProject=..\..\..\Proyecto Biblos\Biblos Three Tiers\stable\prjTest\prjTest.vbp
